@@ -1,12 +1,27 @@
-# MATransformerV2
+# Dual-branch Transformer for semi-supervised medical image segmentation
 
 The codes for the work "Dual-branch Transformer for semi-supervised medical image segmentation"
-![image](https://github.com/zjmiaprojects/dualtransformer/blob/main/figs/GraphicalAbstract.jpg)
+![image](https://github.com/zjmiaprojects/dualtransformer/blob/main/figs/fig_ag.jpg)
 
 data
 -
 COVID-19 CT Dataset is available at https://medicalsegmentation.com/covid19/,
 
-MoNu Dataset is available at https://monuseg.grand-challenge.org/Data/,
+DRIVE Dataset is available at https://drive.grand-challenge.org/.
 
-EM Dataset is available at https://www.epfl.ch/labs/cvlab/data/data-em/.
+Citation
+-
+If you find our work is useful in your research, please consider citing:
+
+```bibtex
+@article{huang2024dual,
+  title={Dual-branch Transformer for semi-supervised medical image segmentation},
+  author={Huang, Xiaojie and Zhu, Yating and Shao, Minghan and Xia, Ming and Shen, Xiaoting and Wang, Pingli and Wang, Xiaoyan},
+  journal={Journal of Applied Clinical Medical Physics},
+  volume={25},
+  number={10},
+  pages={e14483},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
