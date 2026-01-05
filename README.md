@@ -1,6 +1,6 @@
 # Dual-branch Transformer for semi-supervised medical image segmentation
 
-The codes for the work "Dual-branch Transformer for semi-supervised medical image segmentation"
+The codes for the work "Dual-branch Transformer for semi-supervised medical image segmentation" (https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.14483)
 ![image](https://github.com/zjmiaprojects/dualtransformer/blob/main/figs/fig_ag.jpg)
 
 data
