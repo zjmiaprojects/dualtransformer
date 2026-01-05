@@ -5,9 +5,9 @@ The codes for the work "Dual-branch Transformer for semi-supervised medical imag
 
 data
 -
-COVID-19 CT Dataset is available at https://medicalsegmentation.com/covid19/,
+COVID-19 CT Dataset is available at [https://medicalsegmentation.com/covid19/,](https://medicalsegmentation.com/covid19/)
 
-DRIVE Dataset is available at https://drive.grand-challenge.org/.
+DRIVE Dataset is available at [https://drive.grand-challenge.org/.](https://drive.grand-challenge.org/)
 
 Citation
 -
